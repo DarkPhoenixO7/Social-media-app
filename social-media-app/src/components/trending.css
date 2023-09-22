@@ -1,0 +1,15 @@
+.trending{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.navIcon{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-around;
+}
+.nav-icon{
+    font-size: 30px;
+    cursor: pointer;
+
+}
